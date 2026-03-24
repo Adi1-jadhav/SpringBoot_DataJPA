@@ -1,4 +1,4 @@
-# SpringBoot Data JPA Example
+# SpringBoot Data JPA Project
 
 This project is a Spring Boot application demonstrating the use of Spring Data JPA with MySQL. It includes a complete REST API for performing CRUD operations and derived queries on an `Employee` entity.
 
